@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MemberSpace is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://memberspace.com/
+MemberSpace provides a membership site platform that enables website owners to add paid memberships, subscription plans, and community features to any website. It supports integrations with platforms like Squarespace, Wix, WordPress, and custom sites, offering tools for managing members, content libraries, forums, and online courses. The service includes flexible pricing, free trials, manual approvals, and supports Apple Pay, Google Pay, and Google login.
+
+**Areas:** SaaS · Membership · Payments · Community · Integration · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://memberspace.com/)
+- [Documentation](https://developers.memberspace.com/)
+- [Getting started](https://developers.memberspace.com/getting-started/install-code)
+- [Pricing](https://www.memberspace.com/pricing)
+- [Sign up](https://www.memberspace.com/signup/)
+- [Support](https://help.memberspace.com)
+- [Terms of service](https://www.memberspace.com/terms-and-conditions/)
+- [Privacy policy](https://www.memberspace.com/privacy-policy/)
+- [GitHub](https://github.com/memberspace)
+- [Status](https://status.memberspace.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/memberspace/](https://apis.io/providers/memberspace/).
